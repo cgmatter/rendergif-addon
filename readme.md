@@ -1,0 +1,1 @@
+render gif addon for windows and mac
